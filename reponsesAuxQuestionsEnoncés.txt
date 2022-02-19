@@ -1,0 +1,41 @@
+OBJECTIF PRINCIPALE:
+	Realiser une application graphique qui permet de jouer au jeu BABA IS YOU.
+
+OBJECTIFS SECONDAIRES:
+	- Maitriser le language de programmation de java
+	  a) Utiliser l'outil Gradle
+	  b) Reflechir au design
+	- Se familiariser avec l'architecture MVP
+	- Maitriser LATEX (outil de mise en page)
+	- Develloper les talents oratoires
+	- Travailler en équipe
+	- Géstion son temps
+	- Devélopper son imagination
+
+Utilisateurs
+Attentes Spécifiques:
+	- Le jeu doit être jouable
+	- Pouvoir changer les règles du jeu
+	- Sauvegarder et charger l'historique d'une partie
+	- Charger des niveaux créer
+	- la difficulté doit augmenter au fur à mésure
+	- Sens de lecture des règles respectant la norme de lecture normale
+Principaux critères à satisfaires:
+	- Animation des objets
+	- son en arrière plan
+
+Base:
+	- le jeu doit être jouable
+Partie logique:
+	- Sauvegarder et charger l'historique d'une partie
+	- Charger des niveaux créer
+	- Sens de lecture des règles respectant la norme de lecture normale
+	- la difficulté doit augmenter au fur à mésure
+Partie graphique:
+	- Animation des objets
+Peaufinage:
+	- Son en arrière-plan
+
+Attentes ou fonctionnalités qui sortent de l'ordinaire:
+	-
+

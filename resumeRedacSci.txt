@@ -1,0 +1,52 @@
+AVANT LA REDACTION:
+	a) structurer, classer ses idees ; ´
+	b) etablir un plan de rédaction ; ´
+	c) fixer le vocabulaire et les notations specifiques au domaine ; ´
+	d) se mettre a la place du futur lecteur.
+Il faut ensuite choisir les outils logiciels qui seront utilises pour la mise en page
+	 ´
+Organisation d’un travail ecrit. ´
+	1. Couverture et page de garde
+	2. Remerciements (facultatif)
+	3. Table des matieres `
+	4. Introduction
+	5. Sections (travail plus court) ´
+	6. Conclusion
+	7. Bibliographie
+	8. Annexes (facultatif)
+
+Pour arriver a structurer ses id ` ees, il est important de savoir o ´ u l’on va et de se poser les bonnes `
+questions. Quel est le fil conducteur (l’idee principale) du travail ? Quelles sont les approches uti- ´
+lisees ? Comment rassembler (classer) ses id ´ ees ? Comment pr ´ esenter ses id ´ ees de mani ´ ere hi ` e-´
+rarchique ? Quelles sont les contributions personnelles ? Les reponses ´ a ces questions permettent `
+d’elaborer le plan de rédaction qui constituera la future table des mati ´ eres du rapport ` ecrit.
+
+Comment structurer le rapport:
+	1. Methodes existantes
+	2. Comparaison des differentes méthodes
+	2.1. Criteres objectifs de comparaison 
+	2.2. Avantages et inconvenients
+	2.3. Choix de la methode utilisée
+	3. Implémentation  
+
+Si on fait référence à un lien d'un site : il faut preciser la date d consultation.
+
+- Citeseer (citeseer.ist.psu.edu),
+– Google Scholar (scholar.google.com),
+– ScienceDirect (www.sciencedirect.com),
+– ACM Digital Library (portal.acm.org),
+– IEEE Digital Library (www.computer.org/portal/site/csdl/index.jsp).
+
+Construire la bibliographie:*
+	– pour un article paru dans un journal : nom des auteurs, titre de l’article, nom du journal,
+volume, numero, ann ´ ee, pages ( ´ e.g., les ref´ erences [8, 15] de ce document) ; ´
+	– pour un livre : nom des auteurs, titre du livre, numero d’ ´ edition, maison d’ ´ edition, adresse ´
+(ville) de celle-ci, annee ( ´ e.g., les ref´ erences [1, 4–6, 14]) ; ´
+	– un document electronique (et non publi ´ e ailleurs) ´ : nom des auteurs, titre du document, URL
+pour l’obtenir, annee, date pr ´ ecise de consultation ( ´ e.g., les ref´ erences [10–13]) ; ´
+	– un logiciel : nom du logiciel, titre et URL du site web pour se le procurer, version du logiciel,
+date de consultation precise ( ´ e.g., les ref´ erences [7, 9]).
+
+5. Le catalogue est consultable sur le site de la bibliotheque : ` http ://biblio.umh.ac.be/umhweb/vubis.csp.
+
+p.13
