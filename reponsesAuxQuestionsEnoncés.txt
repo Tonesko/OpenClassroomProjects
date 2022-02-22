@@ -15,7 +15,7 @@ OBJECTIFS SECONDAIRES:
 Utilisateurs
 Attentes Spécifiques:
 	- Le jeu doit être jouable
-	- Pouvoir changer les règles du jeu
+	- L'utilisateur a la possibilités changer les règles du jeu
 	- Sauvegarder et charger l'historique d'une partie
 	- Charger des niveaux créer
 	- la difficulté doit augmenter au fur à mésure
@@ -37,5 +37,18 @@ Peaufinage:
 	- Son en arrière-plan
 
 Attentes ou fonctionnalités qui sortent de l'ordinaire:
-	-
+	- L'utilisateur a la possibilités changer les règles du jeu
+Documents supplémentaires à fournir:
+	- Un rapport du projet;
+	- La documentation du projet;
+	- Un modèle(architectures) MVP
+Language de programmation nouveau:
+	-Le language Java
+Dépendances logicielles:
+	- Le JDK(Java Development Kit)
+	- D'un éditeur de texte
+	- L'invite de commande
+Besoin pour rediger les documents annexes:
+	- le language de programmation LATEX
+	- Non, il nous manque les images et la documentation et les languages Java, LATEX
 
